@@ -1,7 +1,7 @@
 # 👨‍💻 Vitor Miguel
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-mp-silva/)](https://www.linkedin.com/in/vitor-mp-silva/)
-[!Gmail Badge]
+[![Gmail Badge]]
 
 WhatsApp - https://api.whatsapp.com/send?phone=5511998749693&text=Ol%C3%A1!
 
