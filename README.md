@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
- - 👨‍💻 **Fullstack** web developer. Currently focus with **Front-end**.
+ - 👨‍💻 **Fullstack** web developer. Currently focused with **Front-end**.
  - :computer: React.js, Node.js, Javascript, HTML, CSS, SFC and **more**.
  - :books: Always learning and practing.
  
